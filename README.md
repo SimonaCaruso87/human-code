@@ -9,15 +9,28 @@ Perché ci si mette sempre un’ora a scegliere cosa guardare la sera? Certo è 
 
 2.Apriamo Netflix
 
-3.Se è più tardi di mezzanotte
- -scelgo una serie tv
-4.Altrimenti 
- -scelgo un film
- 
-5.Scorriamo tra le catogorie
- - ne scegliamo una categoria che piace a tutti i partecipanti
-    5a. SE nessuno ha visto il film/serie selezionate
-        - scegliamo il film
-        - lo riproduciamo
-        ALTRIMENTI
-        - ritorno al punto 5a
+3.Se qualcuno ha sonno
+ -scegliamo un film che non duri troppo
+   
+
+4.Altrimenti senza badare alla durata
+ -scegliamo un film
+ -oppure scegliamo una serie
+ -oppure valutiamo proposte
+
+
+5.SE vi è una categoria preferita da tutti
+    
+    5a-scorriamo su quella categoria 
+       
+        -possiamo scegliere a caso
+        -oppure accettando consigli 
+        -oppure scegliendolo in base ad una preferenza (attore preferito, trama interessante ecc.)
+        **andiamo al punto 6a
+
+
+6.SE nessuno ha visto il film/serie selezionata
+    6a- scegliamo il film
+     - lo riproduciamo
+    ALTRIMENTI
+    - ritorno al punto 5a
